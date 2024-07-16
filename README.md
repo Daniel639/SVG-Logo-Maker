@@ -55,4 +55,4 @@ For additional questions, please email me at the address provided above.
 
 ## Screen Recording
 
-![screen](./examples/New%20Project%20-%20Made%20with%20Clipchamp.mp4)
+![screen](https://youtu.be/ym_PFmqT3PI)
